@@ -1,8 +1,8 @@
 # _Calculator_
 
-#### _A calculator program, 1/14/19_
+#### _A calculator program, created 1/14/19, updated 1/16/19_
 
-#### By _**Micaela Jawor, Stuart Duke**_
+#### By _**Micaela Jawor, Stuart Duke, Shawn Lunsford**_
 
 ## Description
 
@@ -21,7 +21,7 @@ _No known bugs_
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns.  Contact Stuart @ stuartduke@hotmail.com or Micaela @ micaelajawor@yahoo.com.}_
+_If you run into any issues or have questions, ideas or concerns.  Contact Stuart @ stuartduke@hotmail.com or Micaela @ micaelajawor@yahoo.com. or Shawn @ lunsford.sk@gmail.com_
 
 ## Technologies Used
 
@@ -31,4 +31,4 @@ _Atom, JSFiddle_
 
 *MIT*
 
-Copyright (c) 2019 **_Micaela Jawor, Stuart Duke_**
+Copyright (c) 2019 **_Micaela Jawor, Stuart Duke, Shawn Lunsford_**
